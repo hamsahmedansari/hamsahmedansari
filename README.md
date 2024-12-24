@@ -16,5 +16,3 @@ Linkdin: [hamsahmedansari](https://www.linkedin.com/in/hamsahmedansari/)
 - 👨‍💻 Some of my projects are available at [https://hamsahmedansari.github.io/](https://hamsahmedansari.github.io/)
 
 - 📫 Reach me at **hams.ahmed.ansari95@gmail.com**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamsahmedansari&show_icons=true" alt="hamsahmedansari" /></p>
