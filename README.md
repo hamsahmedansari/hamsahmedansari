@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Hams Ahmed Ansari</h1>
 <p>Hi, I'm Hams Ahmed Ansari, a Full Stack Developer 🚀 from Pakistan, currently, I'm a Sr. Software Developer @sharepoint, Freelancer 👨🏽‍💻 @Upwork, @Fiverr, @freelancer and love to contribute to open source . Beside's programming, I enjoy eating food, traveling and gaming.</p>
 
+Medium: [@hamsahmedansari](https://medium.com/@hamsahmedansari)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamsahmedansari" alt="hamsahmedansari" /> </p>
 <b>Talking about Personal Stuffs:</b>
 
